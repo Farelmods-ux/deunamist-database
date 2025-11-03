@@ -1,0 +1,16 @@
+[
+  {
+     "ID": "1", 
+     "username": "admin", 
+     "password": "admin109",
+     "durasi": "permanent",
+     "role": "vip"
+  }, 
+  {
+     "ID": "2", 
+     "username": "Farel", 
+     "password": "fareliwjp0", 
+     "durasi": "1b", 
+     "role":  "classic"
+  }
+]
